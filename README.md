@@ -1,2 +1,2 @@
-# Hospital-managment-system
+# Crush-managment-system
 HTML, CSS , php
